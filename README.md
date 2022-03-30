@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github](https://github.com/LeodominickGarpida/order-summary-component)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/LeodominickGarpida/order-summary-component/)
+- Live Site URL: [live site](https://leodominickgarpida.github.io/order-summary-component/)
 
 ## My process
 
