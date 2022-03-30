@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/LeodominickGarpida/order-summary-component)
+- Live Site URL: [live site](https://your-live-site-url.com)
 
 ## My process
 
@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-<p>CUBE CSS Approach to styling/p>
+<p>CUBE CSS Approach to styling</p>
 
 ### Useful resources
 
